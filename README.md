@@ -1,4 +1,4 @@
-# tents
+# Tents
 
 > A Tenant Management App.
 
